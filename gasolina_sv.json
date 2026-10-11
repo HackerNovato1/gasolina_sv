@@ -1,5 +1,6 @@
 {
-  "super": 5.13,
-  "regular": 4.80,
-  "diesel": 4.86
+  "vigencia": "Del 29/09/2026 al 12/10/2026",
+  "central": { "super": 5.13, "regular": 4.80, "diesel": 4.86 },
+  "occidental": { "super": 5.14, "regular": 4.81, "diesel": 4.86 },
+  "oriental": { "super": 5.14, "regular": 4.81, "diesel": 4.86 }
 }
